@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "261449966610",
+    "firebase_url": "https://satara-251b3.firebaseio.com",
+    "project_id": "satara-251b3",
+    "storage_bucket": "satara-251b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261449966610:android:d94eed107187b4df7624cb",
+        "android_client_info": {
+          "package_name": "com.example.satara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261449966610-16b9q9ji716l10dpvm9bmef4iuhv21ai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.satara",
+            "certificate_hash": "1c88f2881f2caec0591becdcd60d02616350d855"
+          }
+        },
+        {
+          "client_id": "261449966610-ik81puqffiov335h2e63e6bomfq3nd7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR5z-H9AoKhMl9uxncwEwNLK0zGeLRh54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261449966610-ik81puqffiov335h2e63e6bomfq3nd7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
